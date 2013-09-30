@@ -8,4 +8,3 @@ Kernel's format method. For example, if x = 45.5678 then format("%.2f", x)
 will return the string 45.57 
 	
 =end
-
